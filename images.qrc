@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/deco/banniere.jpeg</file>
+        <file>img/deco/bg.jpg</file>
+        <file>img/deco/logoEntreprise.png</file>
+        <file>img/deco/logoEtudiant.png</file>
+        <file>img/deco/user.png</file>
+        <file>img/gelDouche/orange.png</file>
+        <file>img/gelDouche/violer01.png</file>
+        <file>img/gelDouche/violer02.png</file>
+        <file>img/gelDouche/violer03.png</file>
+        <file>img/gelDouche/violer04.png</file>
+        <file>img/gelDouche/violer05.png</file>
+        <file>img/gelDouche/violer06.png</file>
+        <file>img/Icon/entreprise.png</file>
+        <file>img/Icon/home.png</file>
+        <file>img/Icon/settings.png</file>
+        <file>img/Icon/stage.png</file>
+        <file>img/Icon/student.png</file>
+    </qresource>
+</RCC>
